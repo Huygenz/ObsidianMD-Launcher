@@ -2,7 +2,7 @@
 
 A minimal, lightweight launcher for your [Obsidian](https://obsidian.md) vaults. It starts instantly, lists all your vaults, and opens the one you click, nothing more.
 
-<!-- Add a screenshot here: ![Screenshot](docs/screenshot.png) -->
+![Screenshot](screenshot.png)
 
 ## Features
 
